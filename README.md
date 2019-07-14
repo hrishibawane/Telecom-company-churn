@@ -2,7 +2,8 @@
 
 
 ## Problem Description
-	You have a telecom firm which has collected data of all its customers. The main types of attributes are:
+
+You have a telecom firm which has collected data of all its customers. The main types of attributes are:
 1. Demographics (age, gender etc.) 
 2. Services availed (internet packs purchased, special offers etc) 
 3. Expenses (amount of recharge done per month etc.) 
